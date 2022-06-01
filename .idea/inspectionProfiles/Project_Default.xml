@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AppEngineThreadsafeCGIHandlerInspection" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AppEngineThreadsafeInspection" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.appand" />
+          <option value="random.choise" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="Query_bound_parameters" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="Query_index_required" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="Query_restricted" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="Restricted_Python_calls" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="All Changed Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
